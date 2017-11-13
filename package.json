@@ -6,10 +6,6 @@
   "directories": {
     "example": "examples"
   },
-  "scripts": {
-    "install": "bower install",
-    "test": "./node_modules/karma/bin/karma start --single-run"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/neoziro/angular-notification.git"
